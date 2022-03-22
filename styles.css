@@ -1,0 +1,46 @@
+
+*{ 
+    background-color: aliceblue;
+}
+
+
+
+h1, h2 {
+    text-align: center;
+    line-height: 2;
+}
+
+
+table {
+    table-layout: fixed;
+    width: 800px;
+    border-collapse: collapse;
+    border: 3px solid silver;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+td{
+    text-align: center;
+}
+
+#code{
+    background-color: rgba(245, 245, 220, 0.2) ;
+    
+}
+
+
+
+
+tr, td , th{
+    border: 2px solid silver;
+    line-height: 3;
+}
+
+th{
+    background-color: rgba(255, 99, 71, 0.2)
+    ;
+}
+
